@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+  outline: none;
+}
+
+section {
+  margin: 20px;
+}
+
+.todoDiv {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* .dropdownBox {
+  display: none;
+  width: 300px;
+  height: 200px;
+  border: 1px solid silver;
+}
+
+.dropdownBox-display {
+  display: block;
+}
+
+.item:hover {
+  cursor: pointer;
+} */
